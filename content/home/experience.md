@@ -18,27 +18,46 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Senior Machine Learning Engineer"
+  company = "Data Revenue GmbH"
+  company_url = "https://www.datarevenue.com/"
+  location = "Berlin, Germany"
+  date_start = "2019-09-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Developed machine learning systems to help medical researchers identify
+  diseases from blood samples
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Founder / Data Scientist"
+  company = "Dataginjo LLC"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Ohio, USA"
+  date_start = "2016-07-01"
+  date_end = ""
+  description = """
+  Developed machine learning models in AzureML for clients in education and outdoor recreation industries to support marketing and supply-chain initiatives
+  """
+
+[[experience]]
+  title = "Senior Business Analyst"
+  company = "National Business Institute Inc."
+  company_url = ""
+  location = "Wisconsin, USA"
+  date_start = "2015-09-01"
+  date_end = "2016-07-01"
+  description = """
+  Developed machine learning models in Python Scikit-learn and Rapidminer to predict customers' response to brochure mailings for education company"""
+
+[[experience]]
+  title = "Investment Manager"
+  company = "VNET Venture Capital Management Securities"
+  company_url = ""
+  location = "Bangkok, Thailand"
+  date_start = "2008-10-01"
+  date_end = "2013-04-01"
+  description = """
+  Identified investment opportunities in small- and medium-sized companies in Thailand and Asia-Pacific region including companies in manufacturing, IT, biotechnology, retail, healthcare, and food industries"""
 
 +++

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Pat Thontirawong
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Founder / Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Dataginjo LLC
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Learning reinforcement learning and time-series forecasting. Soccer data nerd.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Reinforcement Learning
+- Time-series Forecasting
+- Machine Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: MLA in Software Engineering
+    institution: Harvard Extension School, Harvard University
+    year: 2020
+  - course: PhD in Finance
+    institution: Mahidol University
+    year: 2013
+  - course: MBA in Finance
+    institution: University of Illinois at Urbana-Champaign
     year: 2008
 
 # Social/Academic Networking
@@ -45,20 +45,17 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/pipatth
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/pipatth
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,7 +66,11 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I am a machine learning engineer at Data Revenue GmbH. I designed and developed end-to-end machine learning systems for medical researchers. I am also a founder of Dataginjo LLC where I worked with clients in online education and recreation industries to apply machine learning and predictive modeling in marketing and operation areas. My interests include reinforcement learning and time-series forecasting. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Before moving to the U.S., I worked with VNET Venture Capital, one of the leading venture capital management companies in Thailand. My focus was on identifying investment opportunities in IT, retail, healthcare, and food industries. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I published research articles on Quantitative Finance and Review of Quantitative Finance and Accounting. But now I am focusing on artificial intelligence in marketing. 
+
+I enjoy beer, cooking, SCUBA diving, and looking at soccer stats
+
