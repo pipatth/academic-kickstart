@@ -33,5 +33,13 @@ date_format = "2006"
   date_start = "2016-01-01"
   date_end = ""
   description = ""
-  
+
+[[item]]
+  organization = "Marketing Education Review​"
+  title = "Teaching Artificial Intelligence and Machine Learning in Marketing"
+  url = "https://www.tandfonline.com/doi/full/10.1080/10528008.2021.1871849"
+  date_start = "2021-01-17"
+  date_end = ""
+  description = ""
+
 +++
